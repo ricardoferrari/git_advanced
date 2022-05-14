@@ -1,2 +1,3 @@
 Branch Master (●'◡'●)
     feature 1
+    feature 3
