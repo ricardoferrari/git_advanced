@@ -8,3 +8,4 @@ Branch Master (●'◡'●)
     feature/7
     feature/8
     fix/1
+    rollback/1
