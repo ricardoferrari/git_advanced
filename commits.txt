@@ -1,7 +1,0 @@
-1f629bf (HEAD -> hotfix, main-original, main) Merge pull request #1 from ricardoferrari/cherry
-f69cdb5 (origin/main, origin/cherry, cherry) Cherry change 3
-b250962 Cherry change 2
-7814e3f Cherry change 1
-cebd286 Adjust gitingnore
-4b28a35 Adjust gitingnore
-bc05b55 (tag: deploy-3) Merge branch 'feature/3'
